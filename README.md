@@ -1,4 +1,4 @@
-# cookbooks
+~# cookbooks
 
 A Python application for parsing and serving EPUB cookbook files with a web interface.
 
