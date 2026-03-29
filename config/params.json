@@ -1,4 +1,6 @@
 {
   "input_folder": "D:\\Cookbooks",
-  "output_folder": "Extracted"
+  "zip_folder_extension": "Extracted",
+
+  "cookbook_folder": "D:\\Cookbooks\\Extracted"
 }
